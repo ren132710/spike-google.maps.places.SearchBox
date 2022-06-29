@@ -1,5 +1,5 @@
 {
-  "name": "spike-google.maps.places",
+  "name": "spike-google.maps.places.searchbox",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
@@ -9,19 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ren132710/spike-google.maps.places.git"
+    "url": "git+https://github.com/ren132710/spike-google.maps.places.SearchBox.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ren132710/spike-google.maps.places/issues"
+    "url": "https://github.com/ren132710/spike-google.maps.places.SearchBox/issues"
   },
-  "homepage": "https://github.com/ren132710/spike-google.maps.places#readme",
+  "homepage": "https://github.com/ren132710/spike-google.maps.places.SearchBox#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
-  },
-  "dependencies": {
-    "dotenv": "^16.0.1"
   }
 }
