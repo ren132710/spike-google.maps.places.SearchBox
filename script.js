@@ -24,9 +24,6 @@
 //   require('dotenv').config()
 // }
 
-//parcel-bundler seems to prefer this syntax for importing dotenv/config
-import {} from 'dotenv/config'
-
 const placeResult = document.querySelector('[data-place-result]')
 const placeSearch = document.querySelector('[data-place-search]')
 
